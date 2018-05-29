@@ -1,4 +1,5 @@
 # A Self-Learn Journey to Data Science
+(https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#links)
 
 This is a place to document on how I learn Data Science myself
 
