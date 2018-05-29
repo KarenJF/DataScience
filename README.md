@@ -20,3 +20,4 @@ Since December 2017, I've been using online resources to learn python.
 I've been using SQL on a daily basis to do my health analytic work. But all my SQL is done within SAS EG. I'd like to refresh my knowledge on SQL. So I also took a quick SQL Bootcamp on Udemy. Since I've been using SQL daily, this course is no challenge to me. I'm able to finish the course in less than 2 days.
 1. (02/09/2018) **_The Complete SQL Bootcamp_**
     - [Certificate](https://www.udemy.com/certificate/UC-QYNIOPI2/)
+    - [Portfolio](wait for upload)
