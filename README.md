@@ -6,6 +6,8 @@ This is a place to document on how I learn Data Science myself.
 ## 1. Learning Python ([link](https://github.com/KarenJF/DataScience/tree/master/Learn_Python))
 Since December 2017, I've been using online resources to learn python. 
 1. (12/20/2017) **_Udemy Online Course: Complete Python Bootcamp: Go from zero to hero in Python_**
+* Review: This is my first python course. At the time I took it, it's in python2. But the instructor also provides python3 syntax whenever it's applicable. I know I want to learn python3. So I changed all the assignments in python3 syntax. This is a very comprehensive course from python basic to methods, functions, moduels and packages. I learned a lot in this course. But to master python and be familiar with it, the best way to do so is to practice day-in and day-out. 
+
     - [Certificate](https://www.udemy.com/certificate/UC-5EIRXTI7/)
     - [Portfolio](wait for upload)
     
