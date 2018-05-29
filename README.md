@@ -12,7 +12,7 @@ Since December 2017, I've been using online resources to learn python.
     - [Portfolio](wait for upload)
     
 2. (5/29/2018) **_DataQuest: Python For Beginner_**
-* _Review_: This is one of the class in the DataQuest Data Science Path. I did this mainly to refresh my knowledge in python. It's very intuitive as you will be coding and learning at the same time. 
+* _Review_: This is one of the classes in the DataQuest Data Science Path. I did this mainly to refresh my knowledge in python. It's very intuitive as you will be coding and learning at the same time. 
     - [Certificate](https://github.com/KarenJF/DataScience/blob/master/Learn_Python/Jiaqi_Fang_Python_Beginner_DataQuest.pdf)
     - Project: [Explore U.S. Births](https://github.com/KarenJF/DataScience/blob/master/Learn_Python/Explore_US_Births.ipynb)
 
