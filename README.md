@@ -16,10 +16,15 @@ Since December 2017, I've been using online resources to learn python.
     - [Certificate](https://github.com/KarenJF/DataScience/blob/master/Learn_Python/Jiaqi_Fang_Python_Beginner_DataQuest.pdf)
     - Project: [Explore U.S. Births](https://github.com/KarenJF/DataScience/blob/master/Learn_Python/Explore_US_Births.ipynb)
 
-## 2. Refreshing SQL Knowledge  (link: wait for upload)
-I've been using SQL on a daily basis to do my health analytic work. But all my SQL is done within SAS EG. I'd like to refresh my knowledge on SQL. So I also took a quick SQL Bootcamp on Udemy. Since I've been using SQL daily, this course is no challenge to me. I'm able to finish the course in less than 2 days.
+## 2. Refreshing SQL Knowledge  
+I've been using SQL on a daily basis to do my health analytic work. But all my SQL is done within SAS EG. I'd like to refresh my knowledge on SQL. So I also took several SQL Bootcamp and took SQL practice online. Most of the online resources are free, such as SQLZOO, Udacity SQL etc. 
+
 1. (02/09/2018) **_The Complete SQL Bootcamp_**
+    - I also took a quick SQL Bootcamp on Udemy. Since I've been using SQL daily, this course is no challenge to me. I'm able to finish the course in less than 2 days.
     - [Certificate](https://www.udemy.com/certificate/UC-QYNIOPI2/)
+
+2. (6/4/2018 - 6/9/2018) **_Udacity Nanodegree in Data Science Prerequisite: SQL_**
+    - [Project](https://github.com/KarenJF/DataScience/tree/master/SQL/Udacity_SQL)
     
-2. (6/10/2018) **_Pratice SQL on SQLZOO_**
-    - [Portfolio]
+3. (6/10/2018) **_Pratice SQL on SQLZOO_**
+    - [Project](https://github.com/KarenJF/DataScience/tree/master/SQL/SQLZOO)
