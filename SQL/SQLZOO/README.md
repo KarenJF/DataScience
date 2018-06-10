@@ -2,7 +2,7 @@
 
 1. [SELECT basics](https://github.com/KarenJF/DataScience/blob/master/SQL/SQLZOO/select_basics.sql)
 2. [SELECT from world](https://github.com/KarenJF/DataScience/blob/master/SQL/SQLZOO/SELECT_from_WORLD.sql)
-3. SELECT from nobel
+3. [SELECT from nobel](https://github.com/KarenJF/DataScience/blob/master/SQL/SQLZOO/SELECT_from_Nobel.sql)
 4. SELECT in SELECT
 5. SUM and COUNT
 6. JOIN
