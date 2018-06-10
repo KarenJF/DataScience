@@ -1,6 +1,6 @@
 # My Answers to the [SQLZOO](http://sqlzoo.net/wiki/SQL_Tutorial) questions.
 
-1. SELECT basics
+1. [SELECT basics](https://github.com/KarenJF/DataScience/blob/master/SQL/SQLZOO/select_basics.sql)
 2. SELECT from world
 3. SELECT from nobel
 4. SELECT in SELECT
