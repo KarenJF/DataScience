@@ -17,7 +17,7 @@ Since December 2017, I've been using online resources to learn python.
     - Project: [Explore U.S. Births](https://github.com/KarenJF/DataScience/blob/master/Learn_Python/Explore_US_Births.ipynb)
 
 ## 2. Refreshing SQL Knowledge  
-I've been using SQL on a daily basis to do my health analytic work. But all my SQL is done within SAS EG. I'd like to refresh my knowledge on SQL. So I also took several SQL Bootcamp and took SQL practice online. Most of the online resources are free, such as SQLZOO, Udacity SQL etc. 
+I've been using SQL on a daily basis to do my health analytic work. But all my SQL is done within SAS EG. I'd like to refresh my knowledge on SQL. So I almost practice SQL online and took some SQL Bootcamps to refresh my knowledge. Most of the online resources are free, such as SQLZOO, Udacity SQL etc. 
 
 1. (02/09/2018) **_The Complete SQL Bootcamp_**
     - I also took a quick SQL Bootcamp on Udemy. Since I've been using SQL daily, this course is no challenge to me. I'm able to finish the course in less than 2 days.
