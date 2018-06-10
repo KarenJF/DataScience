@@ -26,5 +26,5 @@ I've been using SQL on a daily basis to do my health analytic work. But all my S
 2. (6/4/2018 - 6/9/2018) **_Udacity Nanodegree in Data Science Prerequisite: SQL_**
     - [Project](https://github.com/KarenJF/DataScience/tree/master/SQL/Udacity_SQL)
     
-3. (6/10/2018) **_Pratice SQL on SQLZOO_**
+3. (6/10/2018) **_Pratice SQL on [SQLZOO](http://sqlzoo.net/wiki/SQL_Tutorial)_**
     - [Project](https://github.com/KarenJF/DataScience/tree/master/SQL/SQLZOO)
