@@ -4,7 +4,7 @@
 2. [SELECT from world](https://github.com/KarenJF/DataScience/blob/master/SQL/SQLZOO/SELECT_from_WORLD.sql)
 3. [SELECT from nobel](https://github.com/KarenJF/DataScience/blob/master/SQL/SQLZOO/SELECT_from_Nobel.sql)
 4. [SELECT in SELECT](https://github.com/KarenJF/DataScience/blob/master/SQL/SQLZOO/SELECT_within_SELECT.sql)
-5. SUM and COUNT
+5. [SUM and COUNT](https://github.com/KarenJF/DataScience/blob/master/SQL/SQLZOO/SUM_and_COUNT.sql)
 6. JOIN
 7. More JOIN
 8. Using NULL
