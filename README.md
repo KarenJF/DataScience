@@ -30,3 +30,9 @@ I've been using SQL on a daily basis to do my health analytic work. But all my S
     
 3. (6/10/2018) **_Pratice SQL on [SQLZOO](http://sqlzoo.net/wiki/SQL_Tutorial)_**
     - [Project](https://github.com/KarenJF/DataScience/tree/master/SQL/SQLZOO)
+    
+## 3. A/B Testing
+When I searched Data Scientist job postings online, I found out many of them requires A/B testing. With a background in Statistics, and I've done some researchs in Statistics experiment designs, I decided to once again refresh my knowledge in A/B testing. 
+
+1. (6/4/2018 - continue) **_Udacity A/B Testing_**
+
