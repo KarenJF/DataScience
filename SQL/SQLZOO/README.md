@@ -7,5 +7,5 @@
 5. [SUM and COUNT](https://github.com/KarenJF/DataScience/blob/master/SQL/SQLZOO/SUM_and_COUNT.sql)
 6. [JOIN](https://github.com/KarenJF/DataScience/blob/master/SQL/SQLZOO/JOIN.sql)
 7. [More JOIN](https://github.com/KarenJF/DataScience/blob/master/SQL/SQLZOO/More_JOIN.sql)
-8. Using NULL
+8. [Using NULL](https://github.com/KarenJF/DataScience/blob/master/SQL/SQLZOO/Using_Null.sql)
 9. [Self JOIN](https://github.com/KarenJF/DataScience/blob/master/SQL/SQLZOO/self_join.sql)
