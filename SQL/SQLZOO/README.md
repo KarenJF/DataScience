@@ -5,7 +5,7 @@
 3. [SELECT from nobel](https://github.com/KarenJF/DataScience/blob/master/SQL/SQLZOO/SELECT_from_Nobel.sql)
 4. [SELECT in SELECT](https://github.com/KarenJF/DataScience/blob/master/SQL/SQLZOO/SELECT_within_SELECT.sql)
 5. [SUM and COUNT](https://github.com/KarenJF/DataScience/blob/master/SQL/SQLZOO/SUM_and_COUNT.sql)
-6. JOIN
+6. [JOIN](https://github.com/KarenJF/DataScience/blob/master/SQL/SQLZOO/JOIN.sql)
 7. More JOIN
 8. Using NULL
 9. [Self JOIN](https://github.com/KarenJF/DataScience/blob/master/SQL/SQLZOO/self_join.sql)
