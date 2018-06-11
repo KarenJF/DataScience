@@ -12,9 +12,10 @@ Since December 2017, I've been using online resources to learn python.
 * _Review_: This is my first python course. At the time I took it, it's in python2. But the instructor also provides python3 syntax whenever it's applicable. I know I want to learn python3. So I changed all the assignments in python3 syntax. This is a very comprehensive course from python basic to methods, functions, moduels and packages. I learned a lot in this course. But to master python and be familiar with it, the best way to do so is to practice day-in and day-out. 
 
     - [Certificate](https://www.udemy.com/certificate/UC-5EIRXTI7/)
-    - [Python Games](https://github.com/KarenJF/Python-Games)
-    - [Python Algorithm](https://github.com/KarenJF/Python-Algorithm)
-    - [Leetcode](https://github.com/KarenJF/Leetcode)
+    - Projects: 
+        - [Python Games](https://github.com/KarenJF/Python-Games)
+        - [Python Algorithm](https://github.com/KarenJF/Python-Algorithm)
+        - [Leetcode](https://github.com/KarenJF/Leetcode)
     
 2. (5/29/2018) **_DataQuest: Python For Beginner_**
 * _Review_: This is one of the classes in the DataQuest Data Science Path. I did this mainly to refresh my knowledge in python. It's very intuitive as you will be coding and learning at the same time. 
