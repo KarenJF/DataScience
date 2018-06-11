@@ -6,7 +6,7 @@ Click [Here](https://github.com/KarenJF/DataScience/tree/master/Portfolio) to se
 ## Part 2. A detailed documentation on how I learn learn Data Science myself
 Below is a place to document on how I learn Data Science myself.
 
-### 1. Learning Python ([link](https://github.com/KarenJF/DataScience/tree/master/Learn_Python))
+### 1. Learning Python ([Link](https://github.com/KarenJF/DataScience/tree/master/Learn_Python))
 Since December 2017, I've been using online resources to learn python. 
 1. (12/20/2017) **_Udemy Online Course: Complete Python Bootcamp: Go from zero to hero in Python_**
 * _Review_: This is my first python course. At the time I took it, it's in python2. But the instructor also provides python3 syntax whenever it's applicable. I know I want to learn python3. So I changed all the assignments in python3 syntax. This is a very comprehensive course from python basic to methods, functions, moduels and packages. I learned a lot in this course. But to master python and be familiar with it, the best way to do so is to practice day-in and day-out. 
@@ -22,7 +22,7 @@ Since December 2017, I've been using online resources to learn python.
     - [Certificate](https://github.com/KarenJF/DataScience/blob/master/Learn_Python/Jiaqi_Fang_Python_Beginner_DataQuest.pdf)
     - Project: [Explore U.S. Births](https://github.com/KarenJF/DataScience/blob/master/Learn_Python/Explore_US_Births.ipynb)
 
-### 2. Refreshing SQL Knowledge  
+### 2. Refreshing SQL Knowledge ([Link](https://github.com/KarenJF/DataScience/tree/master/SQL)) 
 I've been using SQL on a daily basis to do my health analytic work. But all my SQL is done within SAS EG. I'd like to refresh my knowledge on SQL. So I almost practice SQL online and took some SQL Bootcamps to refresh my knowledge. Most of the online resources are free, such as SQLZOO, Udacity SQL etc. 
 
 1. (02/09/2018) **_The Complete SQL Bootcamp_**
