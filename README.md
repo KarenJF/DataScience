@@ -1,7 +1,7 @@
 # A Self-Learn Journey to Data Science
 
-## My Portfolio [Link](https://github.com/KarenJF/DataScience/tree/master/Portfolio)
-Here are all my portfolio for Data Science (continue updating)
+## [My Portfolio](https://github.com/KarenJF/DataScience/tree/master/Portfolio)
+Here are [my portfolio](https://github.com/KarenJF/DataScience/tree/master/Portfolio) for Data Science (continue updating)
 
 ## Below is my journey to learn Data Science myself
 This is a place to document on how I learn Data Science myself.
