@@ -8,3 +8,5 @@ information available. HINT: do not limit yourself to counts and histograms.
 3. The client is interested in partnering with apps outside the Health and Wellness space to drive cross
 promotion. Where are the biggest opportunities? Please create some short bullet points to support the
 recommendation in both data science and business contexts.
+
+### Full analysis located [HERE](https://docs.google.com/document/d/1A0Qvz46uQnJ4al3lVPLVuiw3PY7LykmSJtVhk9kp6ZQ/edit?usp=sharing)
