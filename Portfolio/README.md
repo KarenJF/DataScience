@@ -1,4 +1,4 @@
 # This is the repository for all my data science projects
 
 1. Data Exploratory and Visulization
-    - Market Share Analysis
+    - [Market Share Analysis](https://github.com/KarenJF/DataScience/tree/master/Portfolio/Market%20Share%20Analysis)
