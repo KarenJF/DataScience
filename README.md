@@ -3,7 +3,7 @@
 ## Part 1. [My Portfolio](https://github.com/KarenJF/DataScience/tree/master/Portfolio)
 Click [Here](https://github.com/KarenJF/DataScience/tree/master/Portfolio) to see my current portfolio (continue updating).
 
-## Part 2. A detailed documentation on how I learn learn Data Science myself
+## Part 2. A detailed documentation on how I learn Data Science myself
 Below is a place to document on how I learn Data Science myself.
 
 ### 1. Learning Python ([Link](https://github.com/KarenJF/DataScience/tree/master/Learn_Python))
