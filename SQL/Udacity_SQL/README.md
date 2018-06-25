@@ -7,3 +7,4 @@
   - [SQL Join](https://github.com/KarenJF/DataScience/blob/master/SQL/Udacity_SQL/2.SQLJoin.sql)
   - [SQL Aggregation](https://github.com/KarenJF/DataScience/blob/master/SQL/Udacity_SQL/3.SQLAggregations.sql)
   - [SQL Subqueries](https://github.com/KarenJF/DataScience/blob/master/SQL/Udacity_SQL/4.Subqueries_TempTables.sql)
+  - [SQL Data Cleaning](https://github.com/KarenJF/DataScience/blob/master/SQL/Udacity_SQL/5.SQLDataCleaning.sql)
