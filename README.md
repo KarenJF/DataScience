@@ -40,3 +40,14 @@ When I searched Data Scientist job postings online, I found out many of them req
 
 1. (6/4/2018 - continue) **_Udacity A/B Testing_**
     - [Porject] (wait to upload)
+    
+### 4. Machine Learning
+Machine learning technique is very important and powerful in data science. To better understand it and apply it in data analysis, we not only need to have some background in statistics and probability, but also need some fundamental knowledge of what the algorithm are. I found the following material useful and start learning self paced.
+
+1. (6/21/2018 - continue) **_[Statistical Learning by Stanford](https://lagunita.stanford.edu/courses/HumanitiesSciences/StatLearning/Winter2016/about)_**
+
+This is an introductory-level course in supervised learning, with a focus on regression and classification methods. 
+
+The course include: linear and polynomial regression, logistic regression and linear discriminant analysis; cross-validation and the bootstrap, model selection and regularization methods (ridge and lasso); nonlinear models, splines and generalized additive models; tree-based methods, random forests and boosting; support-vector machines. Some unsupervised learning methods are discussed: principal components and clustering (k-means and hierarchical).
+
+The course also cover all material to compute in R, but I'm planning to change them to Python. To be continue...
