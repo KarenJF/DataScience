@@ -15,3 +15,5 @@ In the experiment, we tested a change where if the student clicked "start free t
 **_Goal_**: With these new feature, will the school increase students net conversion rate and increase student satisfaction? That's given more information and evalute students needs before students sign-up for the course, will we increase the paid service from students once they are ready and sign-up? Also, in the long run, hoping this feature increase students satisfaction. 
 
 Let's do a A/B testing to find out!
+
+Note: if the files on GitHub don't open, please access the full study here: [here](https://docs.google.com/document/d/1gs1NrABm-Oykjx4_b_3Hz74OSPFtF5kIdouPQUqnNtc/edit?usp=sharing)
