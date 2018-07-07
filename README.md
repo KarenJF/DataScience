@@ -42,7 +42,7 @@ I've been using SQL on a daily basis to do my health analytic work. But all my S
 When I searched Data Scientist job postings online, I found out many of them require A/B testing experience. With a background in Statistics, and I've done some researches in Statistics experiment designs back in college, I decided to once again refresh my knowledge in A/B testing and build a portfolio in A/B Testing. 
 
 1. (6/4/2018 - continue) **_Udacity A/B Testing_**
-    - [Porject] (wait to upload)
+    - [Porject](https://github.com/KarenJF/DataScience/tree/master/Portfolio/AB_Testing)
     
 ### 4. Machine Learning
 Machine learning technique is very important and powerful in data science. To better understand it and apply it in data analysis, we not only need to have some background in statistics and probability, but also need some fundamental knowledge of what the algorithm are. I found the following material useful and start learning self paced.
