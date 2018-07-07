@@ -34,6 +34,9 @@ I've been using SQL on a daily basis to do my health analytic work. But all my S
     
 3. (6/10/2018) **_Pratice SQL on [SQLZOO](http://sqlzoo.net/wiki/SQL_Tutorial)_**
     - [Project](https://github.com/KarenJF/DataScience/tree/master/SQL/SQLZOO)
+
+4. (6/10/2018) **_Stanford Online Lagunia course: [Introduction to Database](https://lagunita.stanford.edu/courses/Engineering/db/2014_1/about)_**
+    - [Project](https://github.com/KarenJF/DataScience/tree/master/SQL/Stanford_Intro_to_DB)
     
 ### 3. A/B Testing
 When I searched Data Scientist job postings online, I found out many of them require A/B testing experience. With a background in Statistics, and I've done some researches in Statistics experiment designs back in college, I decided to once again refresh my knowledge in A/B testing and build a portfolio in A/B Testing. 
