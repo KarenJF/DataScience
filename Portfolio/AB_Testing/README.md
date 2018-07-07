@@ -16,4 +16,4 @@ In the experiment, we tested a change where if the student clicked "start free t
 
 Let's do a A/B testing to find out!
 
-Note: if the files on GitHub don't open, please access the full study here: [here](https://docs.google.com/document/d/1gs1NrABm-Oykjx4_b_3Hz74OSPFtF5kIdouPQUqnNtc/edit?usp=sharing)
+**Note: if the files on GitHub don't open, please access the full study here: [here](https://docs.google.com/document/d/1gs1NrABm-Oykjx4_b_3Hz74OSPFtF5kIdouPQUqnNtc/edit?usp=sharing)**
