@@ -41,7 +41,7 @@ I've been using SQL on a daily basis to do my health analytic work. But all my S
 ### 3. A/B Testing
 When I searched Data Scientist job postings online, I found out many of them require A/B testing experience. With a background in Statistics, and I've done some researches in Statistics experiment designs back in college, I decided to once again refresh my knowledge in A/B testing and build a portfolio in A/B Testing. 
 
-1. (6/4/2018 - continue) **_Udacity A/B Testing_**
+1. (6/4/2018 - 6/20/2018) **_Udacity A/B Testing_**
     - [Porject](https://github.com/KarenJF/DataScience/tree/master/Portfolio/AB_Testing)
     
 ### 4. Machine Learning
