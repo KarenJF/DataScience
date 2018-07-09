@@ -6,3 +6,6 @@
 
 2. A/B Testing
     - [Free Trial Screener](https://github.com/KarenJF/DataScience/tree/master/Portfolio/AB_Testing)
+    
+3. Supervised Learning
+    - [Finding Donor](https://github.com/KarenJF/DataScience/tree/master/Portfolio/FindingDonor)
