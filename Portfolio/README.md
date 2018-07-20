@@ -9,3 +9,6 @@
     
 3. Supervised Learning
     - [Finding Donor](https://github.com/KarenJF/DataScience/tree/master/Portfolio/FindingDonor)
+
+4. [Deep Learning](https://github.com/KarenJF/DataScience/tree/master/Portfolio/DeepLearning)
+    - [PyTorch](https://github.com/KarenJF/DataScience/tree/master/Portfolio/DeepLearning/PyTorch)
