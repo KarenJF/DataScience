@@ -54,3 +54,6 @@ This is an introductory-level course in supervised learning, with a focus on reg
 The course include: linear and polynomial regression, logistic regression and linear discriminant analysis; cross-validation and the bootstrap, model selection and regularization methods (ridge and lasso); nonlinear models, splines and generalized additive models; tree-based methods, random forests and boosting; support-vector machines. Some unsupervised learning methods are discussed: principal components and clustering (k-means and hierarchical).
 
 The course also cover all material to compute in R, but I'm planning to change them to Python. To be continue...
+
+### 5. Deep Learning - Neural Network
+Link: [click here](https://github.com/KarenJF/DataScience/tree/master/Portfolio/DeepLearning)
