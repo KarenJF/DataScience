@@ -48,7 +48,7 @@ When I searched Data Scientist job postings online, I found out many of them req
 ### 4. Machine Learning
 Machine learning technique is very important and powerful in data science. To better understand it and apply it in data analysis, we not only need to have some background in statistics and probability, but also need some fundamental knowledge of what the algorithm are. I found the following material useful and start learning self paced.
 
-**_[Statistical Learning by Stanford](https://lagunita.stanford.edu/courses/HumanitiesSciences/StatLearning/Winter2016/about)_**
+**_a. [Statistical Learning by Stanford](https://lagunita.stanford.edu/courses/HumanitiesSciences/StatLearning/Winter2016/about)_**
 
 This is an introductory-level course in supervised learning, with a focus on regression and classification methods. 
 
@@ -60,19 +60,15 @@ The course also cover all material to compute in R, but I'm planning to change t
 
 Enrolled in the first cohort Udaity Data Science Nanodegree program. Successfully completed all the projects including supervised learning, deep learning and unsupervised learning. Some of the projects include: 
 
-**_1. Supervised Learning: Finding Donor_**
-Link: [click here](https://github.com/KarenJF/DataScience/tree/master/Portfolio/FindingDonor)
+**_1. Supervised Learning:_** [Finding Donor](https://github.com/KarenJF/DataScience/tree/master/Portfolio/FindingDonor)
 
 **_2. Deep Learning_**
-
-    a. [Using Pytorch for Deep Learning](https://github.com/KarenJF/DataScience/tree/master/Portfolio/DeepLearning/PyTorch)
-    
-    b. Image Classification
-    
-    c. Use Google Cloud at scale for deep learning project as my computer doesn't have GPU supported. 
+- [Using Pytorch for Deep Learning](https://github.com/KarenJF/DataScience/tree/master/Portfolio/DeepLearning/PyTorch)
+- Image Classification
+- Use Google Cloud at scale for deep learning project as my computer doesn't have GPU supported. 
 
 **_3. Unsupervised Learning: Identify Customer Segments_**
-a. Use K-Mean cluster method to identify customers segments for a German company. 
+- Use K-Mean cluster method to identify customers segments for a German company. 
 
 ### 6. Data Exploratory and Visulization
 I also constantly play around on Kaggle to do some data exploratory and visualization exercise. Some examples bellow: 
