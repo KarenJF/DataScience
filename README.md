@@ -27,18 +27,17 @@ I've been using online resources to learn python.
 I've been using SQL on a daily basis to do my health analytic work. But all my SQL is done within SAS EG. I'd like to refresh my knowledge on SQL. So I almost practice SQL online and took some SQL Bootcamps to refresh my knowledge. Most of the online resources are free, such as SQLZOO, Udacity SQL etc. 
 
 **_a. The Complete SQL Bootcamp_**
-    
-    - I also took a quick SQL Bootcamp on Udemy. Since I've been using SQL daily, this course is no challenge to me. I'm able to finish the course in less than 2 days.
+- I also took a quick SQL Bootcamp on Udemy. Since I've been using SQL daily, this course is no challenge to me. I'm able to finish the course in less than 2 days.
     - [Certificate](https://www.udemy.com/certificate/UC-QYNIOPI2/)
 
 **_b. Udacity Nanodegree in Data Science Prerequisite: SQL_**
-    - [Project](https://github.com/KarenJF/DataScience/tree/master/SQL/Udacity_SQL)
+- [Project](https://github.com/KarenJF/DataScience/tree/master/SQL/Udacity_SQL)
     
 **_c. Pratice SQL on [SQLZOO](http://sqlzoo.net/wiki/SQL_Tutorial)_**
-    - [Project](https://github.com/KarenJF/DataScience/tree/master/SQL/SQLZOO)
+- [Project](https://github.com/KarenJF/DataScience/tree/master/SQL/SQLZOO)
 
-**_d. Stanford Online Lagunia course: [Introduction to Database(https://lagunita.stanford.edu/courses/Engineering/db/2014_1/about)_**
-    - [Project](https://github.com/KarenJF/DataScience/tree/master/SQL/Stanford_Intro_to_DB)
+**_d. Stanford Online Lagunia course: [Introduction to Database](https://lagunita.stanford.edu/courses/Engineering/db/2014_1/about)_**
+- [Project](https://github.com/KarenJF/DataScience/tree/master/SQL/Stanford_Intro_to_DB)
     
 ### 3. A/B Testing
 When I searched Data Scientist job postings online, I found out many of them require A/B testing experience. With a background in Statistics, and I've done some researches in Statistics experiment designs back in college, I decided to once again refresh my knowledge in A/B testing and build a portfolio in A/B Testing. 
