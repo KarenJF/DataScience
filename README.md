@@ -8,7 +8,8 @@ Below is a place to document on how I learn Data Science myself.
 
 ### 1. Learning Python ([Link](https://github.com/KarenJF/DataScience/tree/master/Learn_Python))
 I've been using online resources to learn python. 
-1.**_Udemy Online Course: Complete Python Bootcamp: Go from zero to hero in Python_**
+
+**a._Udemy Online Course: Complete Python Bootcamp: Go from zero to hero in Python_**
 * _Review_: This is my first python course. At the time I took it, it's in python2. But the instructor also provides python3 syntax whenever it's applicable. I know I want to learn python3. So I changed all the assignments in python3 syntax. This is a very comprehensive course from python basic to methods, functions, moduels and packages. I learned a lot in this course. But to master python and be familiar with it, the best way to do so is to practice day-in and day-out. 
 
     - [Certificate](https://www.udemy.com/certificate/UC-5EIRXTI7/)
@@ -17,7 +18,7 @@ I've been using online resources to learn python.
         - [Python Algorithm](https://github.com/KarenJF/Python-Algorithm)
         - [Leetcode](https://github.com/KarenJF/Leetcode)
     
-2.**_DataQuest: Python For Beginner_**
+**_b.DataQuest: Python For Beginner_**
 * _Review_: This is one of the classes in the DataQuest Data Science Path. I did this mainly to refresh my knowledge in python. It's very intuitive as you will be coding and learning at the same time. 
     - [Certificate](https://github.com/KarenJF/DataScience/blob/master/Learn_Python/Jiaqi_Fang_Python_Beginner_DataQuest.pdf)
     - Project: [Explore U.S. Births](https://github.com/KarenJF/DataScience/blob/master/Learn_Python/Explore_US_Births.ipynb)
@@ -25,18 +26,18 @@ I've been using online resources to learn python.
 ### 2. Refreshing SQL Knowledge ([Link](https://github.com/KarenJF/DataScience/tree/master/SQL)) 
 I've been using SQL on a daily basis to do my health analytic work. But all my SQL is done within SAS EG. I'd like to refresh my knowledge on SQL. So I almost practice SQL online and took some SQL Bootcamps to refresh my knowledge. Most of the online resources are free, such as SQLZOO, Udacity SQL etc. 
 
-1.**_The Complete SQL Bootcamp_**
-    - I also took a quick SQL Bootcamp on Udemy. Since I've been using SQL daily, this course is no challenge to me. I'm able to finish the course in less than 2 days.
-    - [Certificate](https://www.udemy.com/certificate/UC-QYNIOPI2/)
+    **_a. The Complete SQL Bootcamp_**
+        - I also took a quick SQL Bootcamp on Udemy. Since I've been using SQL daily, this course is no challenge to me. I'm able to finish the course in less than 2 days.
+        - [Certificate](https://www.udemy.com/certificate/UC-QYNIOPI2/)
 
-2.**_Udacity Nanodegree in Data Science Prerequisite: SQL_**
-    - [Project](https://github.com/KarenJF/DataScience/tree/master/SQL/Udacity_SQL)
+    **_b. Udacity Nanodegree in Data Science Prerequisite: SQL_**
+        - [Project](https://github.com/KarenJF/DataScience/tree/master/SQL/Udacity_SQL)
     
-3.**_Pratice SQL on [SQLZOO](http://sqlzoo.net/wiki/SQL_Tutorial)_**
-    - [Project](https://github.com/KarenJF/DataScience/tree/master/SQL/SQLZOO)
+    **_c. Pratice SQL on [SQLZOO](http://sqlzoo.net/wiki/SQL_Tutorial)_**
+        - [Project](https://github.com/KarenJF/DataScience/tree/master/SQL/SQLZOO)
 
-4.**_Stanford Online Lagunia course: [Introduction to Database](https://lagunita.stanford.edu/courses/Engineering/db/2014_1/about)_**
-    - [Project](https://github.com/KarenJF/DataScience/tree/master/SQL/Stanford_Intro_to_DB)
+    **_d. Stanford Online Lagunia course: [Introduction to Database(https://lagunita.stanford.edu/courses/Engineering/db/2014_1/about)_**
+        - [Project](https://github.com/KarenJF/DataScience/tree/master/SQL/Stanford_Intro_to_DB)
     
 ### 3. A/B Testing
 When I searched Data Scientist job postings online, I found out many of them require A/B testing experience. With a background in Statistics, and I've done some researches in Statistics experiment designs back in college, I decided to once again refresh my knowledge in A/B testing and build a portfolio in A/B Testing. 
