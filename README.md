@@ -43,12 +43,12 @@ I've been using SQL on a daily basis to do my health analytic work. But all my S
 When I searched Data Scientist job postings online, I found out many of them require A/B testing experience. With a background in Statistics, and I've done some researches in Statistics experiment designs back in college, I decided to once again refresh my knowledge in A/B testing and build a portfolio in A/B Testing. 
 
 1.**_Udacity A/B Testing_**
-    - [Porject](https://github.com/KarenJF/DataScience/tree/master/Portfolio/AB_Testing)
+- [Porject](https://github.com/KarenJF/DataScience/tree/master/Portfolio/AB_Testing)
     
 ### 4. Machine Learning
 Machine learning technique is very important and powerful in data science. To better understand it and apply it in data analysis, we not only need to have some background in statistics and probability, but also need some fundamental knowledge of what the algorithm are. I found the following material useful and start learning self paced.
 
-1.**_[Statistical Learning by Stanford](https://lagunita.stanford.edu/courses/HumanitiesSciences/StatLearning/Winter2016/about)_**
+**_[Statistical Learning by Stanford](https://lagunita.stanford.edu/courses/HumanitiesSciences/StatLearning/Winter2016/about)_**
 
 This is an introductory-level course in supervised learning, with a focus on regression and classification methods. 
 
@@ -60,21 +60,21 @@ The course also cover all material to compute in R, but I'm planning to change t
 
 Enrolled in the first cohort Udaity Data Science Nanodegree program. Successfully completed all the projects including supervised learning, deep learning and unsupervised learning. Some of the projects include: 
 
-1. **_Supervised Learning: Finding Donor_**
+**_1. Supervised Learning: Finding Donor_**
 Link: [click here](https://github.com/KarenJF/DataScience/tree/master/Portfolio/FindingDonor)
 
-2. **_Deep Learning_**
+**_2. Deep Learning_**
 
-    a. Using Pytorch for Deep Learning: [click here](https://github.com/KarenJF/DataScience/tree/master/Portfolio/DeepLearning/PyTorch)
+    a. [Using Pytorch for Deep Learning](https://github.com/KarenJF/DataScience/tree/master/Portfolio/DeepLearning/PyTorch)
     
     b. Image Classification
     
     c. Use Google Cloud at scale for deep learning project as my computer doesn't have GPU supported. 
 
-3. **_Unsupervised Learning: Identify Customer Segments_**
-    a. Use K-Mean cluster method to identify customers segments for a German company. 
+**_3. Unsupervised Learning: Identify Customer Segments_**
+a. Use K-Mean cluster method to identify customers segments for a German company. 
 
 ### 6. Data Exploratory and Visulization
 I also constantly play around on Kaggle to do some data exploratory and visualization exercise. Some examples bellow: 
-    - [Market Share Analysis](https://github.com/KarenJF/DataScience/tree/master/Portfolio/Market%20Share%20Analysis)
-    - [Titanic](https://github.com/KarenJF/Kaggle_Titanic)
+- [Market Share Analysis](https://github.com/KarenJF/DataScience/tree/master/Portfolio/Market%20Share%20Analysis)
+- [Titanic](https://github.com/KarenJF/Kaggle_Titanic)
